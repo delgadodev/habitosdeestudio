@@ -27,7 +27,8 @@ RESPONDE ÚNICAMENTE CON UN JSON VÁLIDO en este formato:
       "area": "nombre del área",
       "icon": "emoji",
       "advice": "consejo específico y accionable",
-      "priority": "high/medium/low/critical/bonus"
+      "priority": "high/medium/low/critical/bonus",
+      "language": "Spanish"
     }
   ]
 }
